@@ -1,0 +1,2 @@
+# typeinfo
+contoh safelink
